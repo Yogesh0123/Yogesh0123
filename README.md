@@ -75,9 +75,9 @@
 
 ## 🌐 Connect with Me
 
-📧 Email: your-email@example.com
+📧 Email: yogeshgadhave356@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
+💼 LinkedIn: www.linkedin.com/in/yogesh-gadhave
 
 ---
 
