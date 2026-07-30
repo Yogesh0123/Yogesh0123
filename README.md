@@ -83,7 +83,7 @@
 
 ### 💡 Quote
 
-> "Code. Learn. Build. Repeat."
+> "Passionate about learning and building reliable software solutions."
 
 ---
 
