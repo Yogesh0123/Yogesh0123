@@ -1,14 +1,8 @@
-<h1 align="center">Hi 👋, I'm Yogesh</h1>
-<h3 align="center">🚀 Full Stack Java Developer | Spring Boot | React.js | MySQL</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Spring+Boot+Developer;React.js+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yogesh0123&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
+<h1 align="center">Hi 👋, I'm Yogesh Gadhave</h1> 
+<h3 align="center">💻 Software Engineer | Java Full Stack Developer | Backend Developer | Android Developer</h3> 
+<p align="center"> 🎓 M.Sc. Computer Science • Java • Spring Boot • REST APIs • MySQL • Android • C++ </p> 
+<p align="center"> 🚀 Building scalable software solutions through practical projects, clean code, and continuous learning. </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Yogesh0123&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </p> 
 ---
 
 ## 👨‍💻 About Me - 
