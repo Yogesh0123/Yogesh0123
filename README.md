@@ -3,6 +3,7 @@
 <p align="center"> 🎓 M.Sc. Computer Science • Java • Spring Boot • REST APIs • MySQL • Android • C++ </p> 
 <p align="center"> 🚀 Building scalable software solutions through practical projects, clean code, and continuous learning. </p> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Yogesh0123&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </p> 
+
 ---
 
 ## 👨‍💻 About Me - 
