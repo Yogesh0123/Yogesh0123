@@ -9,7 +9,6 @@
 ## 👨‍💻 About Me - 
 🎓 M.Sc. Computer Science graduate from **Savitribai Phule Pune University**  
 💻 Interested in **Software Engineering, Java Full Stack Development, Backend Development, Android Development, C++ Development, and Software Testing** 
-
 ☕ Strong foundation in **Java, Spring Boot, Hibernate (JPA), REST APIs, C, C++, Python, JavaScript, HTML, CSS, and XML** 
 📱 Experience in **Android application development using Java and MySQL**  
 🗄 Skilled in **MySQL, MongoDB, Oracle SQL, SQLite, database design, and query development** 
@@ -113,12 +112,6 @@ Developed a healthcare Android application that allows users to:
 
 --- 
 ## 💡 Quote 
- "Passionate about software engineering, backend development, Android applications, and building scalable and reliable software solutions."
- ---
- 
  "Consistent coding, clean architecture, and continuous learning are the foundation of reliable software development."
 ---
 
-<p align="center">
-⭐ If you like my work, don't forget to star my repositories! ⭐
-</p>
