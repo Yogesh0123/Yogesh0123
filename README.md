@@ -110,6 +110,7 @@ Developed a healthcare Android application that allows users to:
 --- 
 ## 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=Yogesh0123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) 
+
 --- 
 ## 🌐 Connect with Me 
 📧 **Email:** yogeshgadhave356@gmail.com 
