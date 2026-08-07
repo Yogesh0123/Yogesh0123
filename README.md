@@ -11,13 +11,16 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🌱 Currently learning **Spring Boot, React.js & Microservices**
-- 💻 Passionate about building modern web applications
-- 🎯 Focused on Java Backend Development
-- 🔥 Love solving coding problems
-- 📚 Always exploring new technologies
+## 👨‍💻 About Me - 
+🎓 M.Sc. Computer Science graduate from **Savitribai Phule Pune University**  
+💻 Interested in **Software Engineering, Software Development, Java Development, Java Full Stack Development, Backend Development, REST API Development, Spring Boot Development, C Development, C++ Development, Android Development, Frontend Development, Database Development, SQL Development, Software Testing, API Testing, and Quality Assurance (QA)**  
+☕ Strong foundation in **Java, Spring Boot, Hibernate (JPA), REST APIs, C, C++, Python, JavaScript, HTML, CSS, and XML** 
+📱 Experience in **Android application development using Java and MySQL**  
+🗄 Skilled in **MySQL, MongoDB, Oracle SQL, SQLite, database design, and query development** 
+🧪 Familiar with **Postman, API testing, software testing concepts, and debugging**  
+🧠 Good understanding of **Data Structures, OOP, Operating Systems, System Programming, and Computer Networks**  
+🛠 Comfortable with **Git, VS Code, Eclipse, Android Studio, Linux, and Apache Tomcat** 
+🚀 Active GitHub contributor focused on building **scalable, efficient, and reliable software solutions**
 
 ---
 
