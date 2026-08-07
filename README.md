@@ -100,6 +100,8 @@ Developed a healthcare Android application that allows users to:
 ### 🔗 Project Link 
 👉 https://github.com/Yogesh0123/Healthcare-Application
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
