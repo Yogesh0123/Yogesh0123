@@ -77,6 +77,29 @@ Seeking opportunities as a **Software Engineer, Software Developer, Java Develop
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 ---
+
+## 📱 Featured Project 
+### 🏥 Health Care Android Application 
+Developed a healthcare Android application that allows users to: 
+-📅 Book online doctor appointments 
+-💊 Order medicines online 
+-🕒 View and manage appointment history 
+-👤 Access a simple and user-friendly interface 
+
+### ⚙️ Tech Stack 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+
+### 🚀 Key Highlights 
+-Applied **Object-Oriented Programming (OOP)** concepts 
+-Connected Android application with **MySQL database** 
+-Implemented basic **CRUD operations** 
+-Focused on **clean UI and smooth user experience** 
+
+### 🔗 Project Link 
+👉 https://github.com/Yogesh0123/Healthcare-Application
+
 ## 📊 GitHub Stats
 
 <p align="center">
