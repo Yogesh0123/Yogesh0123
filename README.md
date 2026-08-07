@@ -103,14 +103,13 @@ Developed a healthcare Android application that allows users to:
 ---
 
 ## 📊 GitHub Statistics 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+![](https://github-readme-stats.vercel.app/api?username=Yogesh0123&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yogesh0123&theme=tokyonight&hide_border=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh0123&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 --- 
 ## 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) 
-
+![](https://github-profile-trophy.vercel.app/?username=Yogesh0123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) 
 --- 
 ## 🌐 Connect with Me 
 📧 **Email:** yogeshgadhave356@gmail.com 
