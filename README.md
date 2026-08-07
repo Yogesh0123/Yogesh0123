@@ -7,15 +7,15 @@
 ---
 
 ## 👨‍💻 About Me - 
-🎓 M.Sc. Computer Science graduate from **Savitribai Phule Pune University**  
-💻 Interested in **Software Engineering, Java Full Stack Development, Backend Development, Android Development, C++ Development, and Software Testing** 
-☕ Strong foundation in **Java, Spring Boot, Hibernate (JPA), REST APIs, C, C++, Python, JavaScript, HTML, CSS, and XML** 
-📱 Experience in **Android application development using Java and MySQL**  
-🗄 Skilled in **MySQL, MongoDB, Oracle SQL, SQLite, database design, and query development** 
-🧪 Familiar with **Postman, API testing, software testing concepts, and debugging**  
-🧠 Good understanding of **Data Structures, OOP, Operating Systems, System Programming, and Computer Networks**  
-🛠 Comfortable with **Git, VS Code, Eclipse, Android Studio, Linux, and Apache Tomcat** 
-🚀 Active GitHub contributor focused on building **scalable, efficient, and reliable software solutions**
+- 🎓 M.Sc. Computer Science graduate from **Savitribai Phule Pune University**
+- 💻 Interested in **Software Engineering, Java Full Stack Development, Backend Development, Android Development, C++ Development, and Software Testing**
+- 🟤 Strong foundation in **Java, Spring Boot, Hibernate (JPA), REST APIs, C, C++, Python, JavaScript, HTML, CSS, and XML**
+- 📱 Experience in **Android application development using Java and MySQL**
+- 🗄️ Skilled in **MySQL, MongoDB, Oracle SQL, SQLite, database design, and query development**
+- 🧪 Familiar with **Postman, API testing, software testing concepts, and debugging**
+- 🧠 Good understanding of **Data Structures, OOP, Operating Systems, System Programming, and Computer Networks**
+- 🛠️ Comfortable with **Git, VS Code, Eclipse, Android Studio, Linux, and Apache Tomcat**
+- 🚀 Active GitHub contributor focused on building **scalable, efficient, and reliable software solutions**
 
 ---
 
