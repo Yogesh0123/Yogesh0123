@@ -114,8 +114,11 @@ Developed a healthcare Android application that allows users to:
 --- 
 ## 🌐 Connect with Me 
 📧 **Email:** yogeshgadhave356@gmail.com 
-##💼 **LinkedIn:** https://www.linkedin.com/in/yogesh-gadhave/ 
-##💻 **GitHub:** https://github.com/Yogesh0123
+
+💼 **LinkedIn:** https://www.linkedin.com/in/yogesh-gadhave/ 
+
+💻 **GitHub:** https://github.com/Yogesh0123
+
 --- 
 ## 💡 Quote 
  “Passionate about software engineering, backend development, Android applications, and building scalable and reliable software solutions.” 
