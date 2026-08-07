@@ -118,6 +118,7 @@ Developed a healthcare Android application that allows users to:
 --- 
 ## 💡 Quote 
  “Passionate about software engineering, backend development, Android applications, and building scalable and reliable software solutions.” 
+ "Consistent coding, clean architecture, and continuous learning are the foundation of reliable software development."
 ---
 
 <p align="center">
