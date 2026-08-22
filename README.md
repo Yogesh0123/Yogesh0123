@@ -20,7 +20,7 @@
 ---
 
 ## 🎯 Career Objective 
-
+Seeking opportunities as a **Software Engineer, Software Developer, Java Developer, Java Full Stack Developer, Backend Developer, Spring Boot Developer, REST API Developer, C/C++ Developer, Android Developer, Database Developer, Software Tester, API Tester, or QA Engineer**, where I can apply my programming skills, problem-solving ability, testing knowledge, and understanding of scalable software development to build reliable, efficient, and industry-ready applications while continuously growing as an IT professional.
 
 ---
 
