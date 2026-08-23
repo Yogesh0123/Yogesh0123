@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me - 
 - 🎓 M.Sc. Computer Science graduate from **Savitribai Phule Pune University**
-- 💻 Interested in **Software Engineering, Java Full Stack Development, Backend Development, Android Development, C++ Development, and Software Testing**
+- 💻 Interested in **Software Engineering, Java Full Stack Development, Backend Development, Android Development, C++ Development, and Software        Testing**
 - 🟤 Strong foundation in **Java, Spring Boot, Hibernate (JPA), REST APIs, C, C++, Python, JavaScript, HTML, CSS, and XML**
 - 📱 Experience in **Android application development using Java and MySQL**
 - 🗄️ Skilled in **MySQL, MongoDB, Oracle SQL, SQLite, database design, and query development**
